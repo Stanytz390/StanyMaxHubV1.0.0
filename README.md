@@ -1,0 +1,1 @@
+# StanyMaxHubV1.0.0
