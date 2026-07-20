@@ -1,0 +1,26 @@
+@MainActivity.java_components
+{"componentId":"i1","param1":"","param2":"","param3":"","type":1}
+
+@MainActivity.java_events
+{"eventName":"onClick","eventType":1,"targetId":"materialbutton1","targetType":41}
+{"eventName":"onClick","eventType":1,"targetId":"materialbutton3","targetType":41}
+{"eventName":"onClick","eventType":1,"targetId":"materialbutton4","targetType":41}
+{"eventName":"onClick","eventType":1,"targetId":"materialbutton5","targetType":41}
+{"eventName":"onClick","eventType":1,"targetId":"materialbutton6","targetType":41}
+{"eventName":"onClick","eventType":1,"targetId":"materialbutton7","targetType":41}
+
+@MainActivity.java_materialbutton1_onClick
+{"color":-16354097,"id":"10","nextBlock":-1,"opCode":"webViewLoadUrl","parameters":["","https://host.stanymaxhub.online"],"spec":"%m.webview loadUrl %s.url","subStack1":-1,"subStack2":-1,"type":" ","typeName":""}
+
+@MainActivity.java_materialbutton4_onClick
+{"color":-16354097,"id":"10","nextBlock":-1,"opCode":"webViewLoadUrl","parameters":["","http://store.stanymaxhub.online"],"spec":"%m.webview loadUrl %s.url","subStack1":-1,"subStack2":-1,"type":" ","typeName":""}
+
+@MainActivity.java_materialbutton7_onClick
+{"color":-16354097,"id":"10","nextBlock":-1,"opCode":"webViewLoadUrl","parameters":["","https://whatsapp.com/channel/0029Vb7fzu4EwEjmsD4Tzs1p"],"spec":"%m.webview loadUrl %s.url","subStack1":-1,"subStack2":-1,"type":" ","typeName":""}
+
+@MainActivity.java_materialbutton3_onClick
+{"color":-16354097,"id":"10","nextBlock":-1,"opCode":"webViewLoadUrl","parameters":["","https://stanymines.site"],"spec":"%m.webview loadUrl %s.url","subStack1":-1,"subStack2":-1,"type":" ","typeName":""}
+
+@MainActivity.java_materialbutton6_onClick
+{"color":-16354097,"id":"10","nextBlock":-1,"opCode":"webViewLoadUrl","parameters":["","https://stanytechonlineservice.zone.id"],"spec":"%m.webview loadUrl %s.url","subStack1":-1,"subStack2":-1,"type":" ","typeName":""}
+
